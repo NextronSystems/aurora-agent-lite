@@ -1,4 +1,4 @@
-# Aurora Agent User Manual
+# Aurora Agent Lite
 
 ![aurora-architecture](https://user-images.githubusercontent.com/8741929/211800013-cae13bc9-ee00-4c06-95ae-91ee7891e54d.png)
 
